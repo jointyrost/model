@@ -1,0 +1,12 @@
+{
+    "name": "imme/model",
+    "description": "a traking app of expencisess",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framwork\\": "src/Framwork",
+            "App\\": "src/App"
+        }
+    }
+}
